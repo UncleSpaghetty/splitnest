@@ -7,3 +7,6 @@
 [submodule "splitnest-be"]
 	path = splitnest-be
 	url = git@github.com:UncleSpaghetty/splitnest-be.git
+[submodule "splitnest-fe"]
+	path = splitnest-fe
+	url = git@github.com:UncleSpaghetty/splitnest-fe.git
