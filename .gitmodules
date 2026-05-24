@@ -1,0 +1,9 @@
+[submodule "splitnest-docs"]
+	path = splitnest-docs
+	url = git@github.com:UncleSpaghetty/splitnest-docs.git
+[submodule "splitnest-infra"]
+	path = splitnest-infra
+	url = git@github.com:UncleSpaghetty/splitnest-infra.git
+[submodule "splitnest-be"]
+	path = splitnest-be
+	url = git@github.com:UncleSpaghetty/splitnest-be.git
